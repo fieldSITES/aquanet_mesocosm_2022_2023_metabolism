@@ -1,5 +1,5 @@
 # Metabolic rate calculations for SITES Aquanet mesocosm experiment 2022/2023
-The R scripts on this repository support the metabolism estimates (GPP/R/NEP) in Langenheder et al. ("Lake ecosystem responses to runoff variability across time and space")
+The R scripts on this repository support the metabolism estimates (GPP/R/NEP) in Langenheder et al. ("Lake ecosystem responses to variability in dissolved organic matter and nutrient loading across time and space")
 
 Please first install the necessary packages via the "Install_packages.R" script in the `scripts/` folder. The main script to run is the `LakeMetabolizer modelling.R` script. It uses the `LakeMetabolizer` R package (Winslow et al., 2016).
 
